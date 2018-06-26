@@ -1,0 +1,52 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.form{
+    width: 200px;
+    height: 220px;
+    background: #DCDCDC;
+    text-align: center;
+    margin: 30px auto;
+    border-radius: 5px;
+    padding-top: 20px;
+    
+}
+label{
+    color: black;
+    font-weight: bold;
+    letter-spacing: 5px;
+    
+}
+input{
+    border: 2px solid RED;
+    border-radius: 3px;
+    outline: none;
+}
+.white{
+    color: aliceblue;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.btn{
+margin: auto;
+}
+div {
+  text-align: center;
+}
+.create_btn{
+    width: 80%;
+    background: blue;
+}
+.create_btn:hover{
+  border: 1px solid blue; 
+background: white;
+color: blue;
+}
+#block{
+   
+}
