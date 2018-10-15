@@ -1,0 +1,1093 @@
+body{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.header{
+    margin-bottom: 120px;
+}
+.nav-item a{
+   margin-left: 10px;
+    
+}
+.navbar-nav{
+    margin: auto;
+}
+
+.navbar-brand{
+    margin-left: 30px;
+    
+}
+
+.nav-link{
+color: red
+}
+.navbar-brand img{
+    border: 1px solid #4a4b4d;
+}
+.navbar{
+     right: 0;
+    left: 0;
+    position: absolute;
+    z-index: 99999;
+    padding: 32.5px;
+   
+}
+.logo_title{
+    text-decoration: none;
+    text-align: center; 
+    color: black; font-weight: bold;
+    margin-top: 10px;
+    font-size: 14px
+}
+.navbar_visible{
+    background: #f4d848;
+    position: absolute;
+    z-index: 99999;
+     padding-top: 30px;
+    padding-bottom: 30px;
+    right: 0;
+    width: 68%;
+    text-align: center;
+    
+}
+.navbar_visible li{
+    display: inline-block;  
+margin: 10px;
+    
+    
+}
+.navbar_visible li a{
+   
+    font-size: 13px;
+    color: #4a4b4d;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    
+    
+}
+.navbar_visible li a:hover{
+color: #fff; 
+  
+}
+.bg-image img{
+position: absolute;
+    height: 104px;
+    width: 500px
+} 
+    
+    
+    
+
+
+.free_call{
+    background:  #4a4b4d;
+display: flex;
+    height: 104px;
+     right: 0;
+    left: 0;
+    position: absolute;
+   
+}
+.telephone_free{
+
+   margin-top: 20px;
+    
+   margin: auto;
+}
+.size{
+   font-size: 17px; 
+    color: yellow;
+}
+
+.line{
+    width: 73px;
+    height: 8px;
+ background:  #f4d848;
+}
+
+
+.img{
+  margin-left: 50px;
+    margin-top: 35px;
+}
+.tel a{
+    color: white; 
+    font-size: 20px; 
+    font-weight: bold; 
+    letter-spacing: 1px;
+}
+.whatsapp, .viber{
+    color: #FAF0E6;
+    
+}
+.whatsapp:hover{
+    text-decoration: none;
+    color: #00FF00;
+    transition: 2s ease;
+}
+.viber:hover{
+    text-decoration: none;
+    color: #FF00FF;
+    transition: 2s ease;
+}
+
+
+
+
+
+
+#contacts{
+    
+}
+.logo_logistic{
+    display: flex;
+}
+.langue a{
+    color: black;
+  
+    font-size: 13px;
+    font-weight: bold;
+}
+.langue a:hover{
+    color:gray;
+}
+.small{
+    color: #f4d848;
+}
+
+.small:hover{
+    text-decoration: none;
+   color:  #FFA500;
+    
+}
+.tel a:hover{
+    color:  #FFA500;
+    text-decoration: none;
+    transition: 2s ease;
+}
+.contact_content{
+    float: right;
+}
+.off-text{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+#delivery_partners{
+    background: url("/img/USV_TWO.PNG")no-repeat center top; 
+    background-size: cover;
+    padding-bottom: 150px;
+}
+#delivery_partners__second{
+   background: url("/img/USV.png")no-repeat center top;
+   background-size: cover;
+   padding-bottom: 150px;
+}
+#delivery{
+ background: url("/img/concord_boing.png")no-repeat center top;
+background-size:cover;
+    
+}
+.num{
+    font-size: 170px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.offer{
+    padding-top: 170px;
+}
+.offer_title{
+    font-size: 50px;
+    color: white;
+    letter-spacing: 2px;
+}
+.offer_title span{
+    color:  #eddd63;
+}
+.offer_text{
+   color: aliceblue;
+    font-size: 30px;
+    margin-top: 50px;
+    
+}
+.offer_group{
+    margin-left: 30px;
+}
+
+//-----------section_services---------------//
+.services_block__item{
+ 
+}
+#images{
+width: 102px;
+	height: 102px;
+	background: #f5d847;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+   
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.line_second{
+  width: 72px;
+    height: 5px;
+    background: #f5d847;
+    border-radius: 6px;
+    margin-top: 35px;
+    margin-bottom: 25px;
+}
+.services_block__text{
+   color:  #b9b9b9;
+    font-size: 18px;
+    
+}
+.services_title{
+    color: #4a4c4e;
+    font-size: 50px;
+    margin-top: 60px;
+    margin-bottom: 57px;
+}
+
+.header{
+   display: none;
+    }
+.about_text{
+    font-size: 16px;
+}
+
+
+
+
+
+#choose{
+    background: #4a4b4d;
+ padding-bottom: 140px;
+    padding-top: 117px;  
+}
+.choose_block__title{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+}
+.choose_block__text{
+   color: white;
+   font-size: 20px; 
+}
+
+
+
+
+
+
+
+#management{
+   background: url("/img/concord-ship.png")no-repeat center top;
+background-size:cover; 
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+
+.management_text{
+    color: #e2d6d4;
+
+}
+
+
+
+
+
+
+#question{
+    padding-top: 90px;
+    padding-bottom: 80px;
+}
+.question_block{
+    margin-left: 30px;
+}
+.question_block__title{
+    margin-bottom: 48px;
+    font-size: 25px;
+}
+#question_images{
+    padding: 16px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background: #f5d847;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+    position: relative;
+   
+}
+#question_view{
+    font-size: 15px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    background: #4a4c4e;
+    border: none;
+    color: #fff;
+    margin-top: 50px;
+}
+#question_view:hover{
+    background: #f5d847;
+    transition: 1s ease;
+}
+.nov{
+    background: #52545a;
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#stock{
+    background: url("/img/concord-stock.png")no-repeat center top;
+    padding-top: 100px;
+background-size:cover; 
+    height: auto;
+     padding-bottom: 120px;
+}
+
+
+
+
+
+
+#ways{
+    padding-top: 100px;
+  
+}
+#ways_third{
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+.ways_content{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.ways_title{
+    color: #4a4c4e;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.ways_text{
+    margin-top: 30px;
+    font-size: 22px;
+    color: #b9b9b9;
+}
+.ways_second{
+    background: #f1f1f1;
+    padding-top: 100px;
+    padding-bottom: 130px;
+}
+.ways_item img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.ways_item{
+    margin-top: 60px;
+}
+
+
+
+
+.form_section{
+ background: url("/img/parallax03.png")  no-repeat center top;
+background-size:cover;
+  
+}
+.answer_title{
+color: #f6f6f6;  
+font-size: 55px;
+padding-top: 20px;
+
+}
+
+form{   
+ padding-bottom: 63px;   
+}
+ 
+.form-control{       
+width: 100%;
+height: 70px;
+padding: 30px;
+margin-top: 80px;
+     
+   
+}
+.area{
+margin-top: 40px;  
+}
+.textarea {
+width: 100%;
+border-radius: 5px;
+margin: auto;
+ padding: 20px;   
+
+height: 200px;
+   
+} 
+#send {
+max-width: 300px;
+background: #474b4d;
+ height: 50px;
+border: 2px solid white;;
+border-radius: 5px;
+font-size: 24px;
+color: whitesmoke;
+cursor: pointer;
+font-weight: bold;
+margin-top: 30px;
+
+} 
+#send:hover{
+     background: #ffda31;
+    transition: 1s ease;
+}
+#tel, #message{
+position: absolute;
+display: none; 
+text-align: right;
+max-width: 170px;
+font-weight: bold;
+border: 1px solid #cccccc; 
+color:azure;
+background: #febd1e;
+border-radius: 8px;
+margin-top: -108px;
+text-align: center;
+font-size: 12px;
+padding: 5px;
+margin-left: 30px;  
+}  
+.logo_partners{
+  border: 2px solid #cccccc;
+  border-radius: 5px;
+    width: 170px;
+    height: 50px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 50px;
+   margin-top: 20px;
+    margin-left: 5px;
+}
+.logo_partners:hover{
+     border: 2px solid #ffda31;
+    transition: 1s ease;
+}
+
+
+
+
+
+
+#management{
+   background: url("/img/concord-ship.png")no-repeat center top;
+background-size:cover; 
+  padding-top: 100px;  
+}
+.management_offer{
+    margin-top: 0px;
+}
+.management_text{
+    color: aliceblue;
+}
+
+
+#newsletter{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.newsletter_title{
+    color: #4a4c4e;
+    
+    font-size: 40px;
+    
+   
+}
+
+
+.newsletter_left{
+    margin-top: 70px;
+    float: right
+}
+.adres_first__img{
+    margin-top: 10px;
+}
+.adres_first__text{
+   color: #c2c3c3;
+    margin-left: 20px;
+    font-size: 15px
+}
+.credits{
+    font-size: 13px;
+    font-weight: bold;
+    color: #53555a;
+    margin-top: 40px;
+}
+.credits span{
+    color: #ffda31;
+}
+.social{
+    margin-top: 30px;
+    margin-left: 30px;
+    display: flex;
+}
+.social_item {
+    height: 60px;
+    width: 60px;
+    background: #53555a;
+    border-radius: 50%;
+    margin: 10px;
+    text-align: center;
+}
+.social_item i{
+    font-size: 30px;
+    margin-top: 13px;
+    color: aliceblue;
+}
+.social_item:hover{
+    background: #ffda31;
+   
+}
+
+.photo-active{
+   border-top: 2px solid red;
+    margin-top: -30px;
+    
+}
+
+
+
+
+
+.dropdown a{
+    font-size: 15px
+}
+
+.dropdown-menu li a{
+    font-size: 13px;
+    font-weight: bold;
+  
+}
+.dp-style > ul {
+  float: left;
+  margin-top: -3px;
+  
+  min-width: 293px;
+  background: #f4d848;
+  border: none;
+  
+}
+.dt-style > ul {
+  float: left;
+ margin-top: -2px;
+  
+  min-width: 170px;
+  background: #f4d848;
+  border: none;
+  
+}
+.ds-style > ul {
+  float: left;
+  margin-top: -3px;
+  
+  min-width: 261px;
+  background: #f4d848;
+  border: none;
+  
+}
+.dp-style>.dropdown-menu {
+  display: none;
+}
+.dp-style:hover>.dropdown-menu {
+  display: block;
+    
+}
+.dt-style>.dropdown-menu {
+  display: none;
+}
+.dt-style:hover>.dropdown-menu {
+  display: block;
+  
+    
+}
+.ds-style>.dropdown-menu {
+  display: none;
+}
+.ds-style:hover>.dropdown-menu {
+  display: block;
+    
+}
+
+
+
+
+
+
+
+#specialize{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.circk{
+width: 10px;
+	height: 10px;
+	background: #f4d848;;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+margin-top: 11px;
+   position: absolute;
+    left: 20px
+ } 
+.specialize-block_item{
+    margin-left: 20px;
+    display: block;
+    font-size: 25px;
+    color: #b9b9b9;
+}
+.specialize-block_title{
+    color: #474b4d;
+    
+}
+
+
+
+
+
+
+
+@media screen and (max-width:1070px){
+      .navbar_visible{
+  width: 100%;
+  
+    }
+    
+       
+} 
+
+@media screen and (max-width:1025px){
+   .dp-style > ul {
+margin-left: -30px;
+    
+       
+} 
+
+    #head_visible{
+        margin-right: 15px;
+    }
+    .free_call{
+       
+    }
+      .navbar_visible{
+  width: 100%;
+  
+    }
+}
+
+
+@media screen and (max-width:991px){
+    .contacts{
+        margin-top: 150px
+    }
+    .form-control{
+        margin-top: 8px;
+        
+    }
+    .offer{
+        margin-top: 30px;
+    }
+    
+    .navbar-collapse{
+        text-align: center;
+        font-size: 20px;
+       
+       
+    
+    }
+   
+    .navbar-collapse a{
+        margin: 20px;
+        
+    }
+    .navbar_visible{
+        margin-top: 30px;
+    }
+  
+      .navbar_visible{
+  width: 100%;
+margin-top: 100px;
+  
+    }
+    #question{
+        margin-top: 100px;
+    }
+  
+}
+@media screen and (max-width:516px){
+    .answer_title{
+        font-size: 50px;
+        font-weight: bold;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+   
+    
+     
+}
+
+@media screen and (max-width:500px){
+    .offer_text{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:572px){
+    .newsletter_item__partners{
+        flex-direction: column;
+        margin: auto;
+        
+    }
+    .logo_partners{
+        margin: auto;
+        margin-top: 20px;
+    }
+    
+}
+
+@media screen and (max-width:579px){
+    #newsletter{
+        text-align: center;
+        margin-top: -100px;
+    }
+      .newsletter_title{
+        font-size: 45px;
+          margin-top: 20px;
+    }
+    .newsletter_text{
+        font-size: 25px;
+    }
+    .newsletter_input{
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .newsletter_btn{
+        width: 80%;
+    }
+    .newsletter_adres__first{
+        flex-direction: column;
+    }
+    .adres_first__img{
+        margin-top: -30px;
+        margin-bottom: 20px;
+        
+    }
+    .adres_first__img img{
+        height: 45px
+    }
+    .adres_first__text{
+        font-size: 20px;
+    }
+    .credits{
+        font-size: 15px;
+    }
+    .social{
+   margin-top: 70px;
+        padding-bottom: 70px;
+        
+}
+    .social a{
+        margin: auto;
+        
+    } 
+    .ways_item{
+        text-align: center;
+    }
+    .ways_item img{
+        width: 250px;
+        height: 250px;
+    }
+}
+@media screen and (max-width:767px){
+    .services_block{
+       text-align: center;
+    }
+    #images{
+        margin: auto
+    }
+    .line_second{
+        margin: 35px auto;
+    }
+    .newsletter_left {
+        float: none;
+        
+    }
+    .bg-image img{
+        display: none;
+    }
+  
+}
+      
+
+
+@media screen and (max-width:768px){
+     .navbar_visible  a{
+        
+         margin: 0
+    }
+    .contact_content{
+       float:none;
+    }
+    .contacts_office{
+     flex-direction: column;
+        
+    }
+    .contacts_office img{
+     margin-top: 0px;
+        margin-bottom: 15px;
+        
+       
+    }
+    .logo_logistic_second{
+        padding-top: 30px;
+    }
+    .contacts_office__russia{
+        margin: auto
+    }
+    .offer_title{
+        font-size: 40px
+    }
+     .offer_text{
+        font-size: 30px;
+        margin-top: 20px;
+        
+    }
+   
+    .navbar{
+        background: aliceblue;
+    }
+    
+    .offer{
+    margin-top: 180px;
+ 
+}
+   
+    .logo_logistic_second{
+        margin: auto;
+    margin-top: 30px;
+    }
+    
+    .num{
+        font-size: 100px;
+    }
+    .contacts_office{
+        text-align: center;
+    }
+    .langue_russia, .langue_usa{
+        margin: auto
+    }
+    .small{
+        line-height: 30px;
+    }
+  
+
+}
+   
+@media screen and (max-width:415px){
+    .logo_logistic_first img{
+       
+    }
+     .logo_logistic_second{
+       
+    }
+     .free_call{
+         padding-top: 20px;    
+        display: block;
+         margin-top: 600px;
+         padding-bottom: 130px;
+         text-align: center;
+          
+    }
+    
+    .form-control{
+        margin-top: 8px;
+        
+    }
+    
+     .button{
+       text-align: center;
+        margin-top: 20px;
+        width: auto;
+    }
+    .button input{
+        width: 100%;
+    }
+    #head_visible{
+        display: none;
+    }
+    .header{
+        display: block;
+    }
+    .navbar-toggler-icon{
+        width: 50px;
+        height: 50px;
+    }
+    .tel a{
+        font-size: 16px;
+       
+    }
+    .size{
+        font-size: 13px;
+    }
+    .img{
+    margin-top: -15px;
+        text-align: center;
+    }
+       .offer{
+    margin-top: 80px;
+ 
+}
+    .offer_title{
+        font-size: 22px
+    }
+     .offer_text{
+        font-size: 18px;
+        margin-top: 20px;
+        
+    }
+    .num{
+        font-size: 100px;
+       margin-top: 20px;
+    }
+    .logo_logistic_second{
+       margin-top: -20px;
+    }
+    .contact_content{
+        margin-top: 20px;
+    }
+    .services_title{
+        font-size: 30px;
+       text-align: center;
+    }
+    .question_content{
+        flex-direction: column;
+    }
+    .services_block__item{
+        width: 30%;
+        margin: auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        
+    }
+    #question_images{
+        font-size: 40px;
+        
+       
+    }
+    .question_button{
+        margin: auto;
+        width: 100%;
+        text-align: center;
+       
+    }
+    #question_view{
+        width: 90%;
+    }
+    .line{
+        margin-bottom: 40px;
+    }
+    #ways {
+        padding-bottom: 40;
+    }
+    .ways_second{
+         padding-bottom: 40px;
+        padding-top: 100px;
+    }
+    .ways_item{
+        margin: auto;
+        text-align: center
+    }
+    .ways_item img{
+      width: 200px;
+       
+    }
+    .ways_content{
+        margin-left: 0;
+        margin-top: 35px;
+    }
+    
+    .social_item {
+    height: 40px;
+    width: 40px;
+    background: #53555a;
+    border-radius: 50%;
+   
+ 
+}
+    .social_item i{ 
+        font-size: 20px;
+       margin-top: 10px;
+    }
+    .social{
+    margin-top: 30px;
+        margin-left: 0;
+        
+    
+}
+      .social a{
+  
+   margin: auto
+ 
+}
+    .adres_first__text{
+        font-size: 15px
+    }
+}
+
+@media screen and (max-width:321px){
+     .offer_text{
+        font-size: 15px;
+       
+        
+    }
+    
+}
+@media screen and (max-width:417px){
+    .ways_item img{
+       width: 200px;
+        height: 200px
+    }
+} 
+
+@media screen and (max-width:349px){
+     .header{
+   margin-bottom: 50px;
+    }
+    
+}
+    
+    
